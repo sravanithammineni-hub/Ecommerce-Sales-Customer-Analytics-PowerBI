@@ -245,19 +245,19 @@ Data modeling was used to establish relationships between relevant tables and en
 
 ### 👥 Customer Analysis
 
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](screenshots/customer_analysis.png)
 
 ### 📦 Product Analysis
 
-![Product Analysis](screenshots/product-analysis.png)
+![Product Analysis](screenshots/product_analysis.png)
 
 ### 💰 Sales Analysis
 
-![Sales Analysis](screenshots/sales-analysis.png)
+![Sales Analysis](screenshots/sales_analysis.png)
 
 ### 🔎 Sales Drill-Through
 
-![Sales Drill-Through](screenshots/sales-drill-through-analysis.png)
+![Sales Drill-Through](screenshots/sales_drill_through.png)
 
 ---
 
