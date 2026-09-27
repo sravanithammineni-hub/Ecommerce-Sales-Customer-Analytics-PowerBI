@@ -18,7 +18,7 @@ This project transforms e-commerce data into an interactive Power BI dashboard c
 - Order-status distribution
 - Inventory and product performance
 
-The dashboard includes **Customer Analysis, Product Analysis, Sales Analysis, and Category-based Sales Drill-Through** pages.
+The dashboard includes **Home, Customer Analysis, Product Analysis, Sales Analysis, and Category-based Sales Drill-Through** pages.
 
 ---
 
@@ -50,7 +50,7 @@ The objective of this project is to analyze e-commerce data and identify key bus
 
 ### 🏠 Home
 
-Provides an overview of the project and navigation to the main analytical sections:
+Provides an overview of the dashboard and navigation to the main analytical sections:
 
 - Customer Analysis
 - Product Analysis
@@ -58,21 +58,43 @@ Provides an overview of the project and navigation to the main analytical sectio
 
 ### 👥 Customer Analysis
 
-Analyzes customer demographics, spending patterns, customer tiers, registration trends, locations, and top customers.
+Analyzes customer demographics, spending behavior, customer tiers, and customer distribution.
+
+Key areas include:
+
+- Customer Tier
+- Age Group
+- Customer Spending
+- Customer Count
+- State-wise Customers
+- Top-Spending Customers
+- Customer Segmentation
 
 ### 📦 Product Analysis
 
-Analyzes product categories, brands, sales, ratings, discounts, stock levels, selling prices, and product quantity sold.
+Analyzes product and inventory performance.
+
+Key areas include:
+
+- Sales by Category
+- Sales by Brand
+- Top-Selling Products
+- Product Ratings
+- Discount Analysis
+- Stock Levels
+- Selling Price
+- Quantity Sold
 
 ### 💰 Sales Analysis
 
-Provides an overview of sales performance through:
+Provides an overview of overall sales performance.
 
-- Total Orders
+Key areas include:
+
 - Total Sales
-- Total Quantity Sold
+- Total Orders
+- Total Quantity
 - Average Order Value
-- Total Discount
 - Shipping Cost
 - Sales Trend
 - Sales by State
@@ -86,14 +108,14 @@ Provides an overview of sales performance through:
 
 The Sales Drill-Through page provides detailed analysis for a selected **product category**.
 
-It includes:
+Key areas include:
 
 - Sales by Brand
 - Top 10 Products
-- Order Status
 - Top 10 Customers
+- Order Status
 - Sales Trend
-- Sales by Customer Tier
+- Customer Tier Sales
 
 This allows users to move from the overall sales view into detailed category-level analysis.
 
