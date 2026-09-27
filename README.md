@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales, Product & Customer Analytics Dashboard
+# 📊 E-Commerce Sales & Customer Analytics Dashboard
 
 An interactive **Power BI dashboard** analyzing e-commerce sales, customer behavior, product performance, and overall business trends.
 
@@ -157,6 +157,9 @@ DAX Measures
 Interactive Dashboard
    ↓
 Business Insights
+```
+
+---
 
 ## 🧹 Data Preparation
 
@@ -238,23 +241,23 @@ Data modeling was used to establish relationships between relevant tables and en
 
 ### 🏠 Home
 
-![Home](Screenshots/home.png)
+![Home](screenshots/home.png)
 
 ### 👥 Customer Analysis
 
-![Customer Analysis](Screenshots/customer analysis.png)
+![Customer Analysis](screenshots/customer-analysis.png)
 
 ### 📦 Product Analysis
 
-![Product Analysis](Screenshots/product analysis.png)
+![Product Analysis](screenshots/product-analysis.png)
 
 ### 💰 Sales Analysis
 
-![Sales Analysis](Screenshots/sales analysis.png)
+![Sales Analysis](screenshots/sales-analysis.png)
 
 ### 🔎 Sales Drill-Through
 
-![Sales Drill-Through](Screenshots/sales drill through analysis.png)
+![Sales Drill-Through](screenshots/sales-drill-through-analysis.png)
 
 ---
 
@@ -278,9 +281,49 @@ Ecommerce-Sales-Customer-Analytics-PowerBI/
 │
 ├── screenshots/
 │   ├── home.png
-│   ├── customer analysis.png
-│   ├── product analysis.png
-│   ├── sales analysis.png
-│   └── sales drill through analysis.png
+│   ├── customer-analysis.png
+│   ├── product-analysis.png
+│   ├── sales-analysis.png
+│   └── sales-drill-through-analysis.png
 │
 └── PowerBI_Dashboard_Demo.mp4
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file.
+2. Open it using **Microsoft Power BI Desktop**.
+3. Navigate through the dashboard pages.
+4. Use the available filters and interactive visuals to explore the data.
+5. Select a category and use **Sales Drill-Through** to explore detailed category-level performance.
+
+---
+
+## 💼 Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Visualization
+- KPI Development
+- Customer Segmentation
+- Sales Analysis
+- Product Analysis
+- Inventory Analysis
+- Business Intelligence
+- Interactive Dashboard Development
+- Drill-Through Analysis
+- Business Insights
+
+---
+
+## 👩‍💻 Author
+
+**Sravani Thammineni**
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
