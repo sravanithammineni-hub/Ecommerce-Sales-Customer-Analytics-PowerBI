@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales & Customer Analytics Dashboard
+# 📊 E-Commerce Sales, Product & Customer Analytics Dashboard
 
 An interactive **Power BI dashboard** analyzing e-commerce sales, customer behavior, product performance, and overall business trends.
 
